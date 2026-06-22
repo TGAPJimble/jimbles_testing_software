@@ -1,0 +1,171 @@
+/* ─── Rococo Pastel Design System ───────────────────────────────────────────
+   60 / 30 / 10 Rule:
+     60% — --bg-base   (dominant background, airy & light)
+     30% — --bg-surface (cards, panels, secondary surfaces)
+     10% — --accent    (buttons, highlights, active states)
+   All "success" and "warn" states use the palette's own tones —
+   no jarring green or yellow boxes.
+────────────────────────────────────────────────────────────────────────── */
+
+/* ── 1. Rose Petal ─ blush & dusty rose ─────────────────────────────────── */
+:root[data-palette="rose-petal"] {
+  --bg-base: #fdf0f3;
+  --bg-mid: #fbe4ea;
+  --bg-surface: #f9d5dd;
+  --bg-surface-alt: #fce9ee;
+  --border: #efb8c8;
+  --accent: #c4687a;
+  --accent-hover: #a8546a;
+  --accent-light: #fae0e5;
+  --text-head: #4a1a24;
+  --text-body: #5c3040;
+  --text-muted: #9a6070;
+  --tag-bg: #f5c6d3;
+  --tag-text: #82323e;
+  /* Palette-matched confirmations */
+  --confirm-bg: #fce9ee;
+  --confirm-border: #efb8c8;
+  --confirm-text: #4a1a24;
+  --hint-bg: #fdf0f3;
+  --hint-border: #efb8c8;
+}
+
+/* ── 2. Powder Blue ─ sky & cornflower ───────────────────────────────────── */
+:root[data-palette="powder-blue"] {
+  --bg-base: #eff5fb;
+  --bg-mid: #deeaf7;
+  --bg-surface: #c8dcf0;
+  --bg-surface-alt: #deeaf7;
+  --border: #a8c5e5;
+  --accent: #4a7db5;
+  --accent-hover: #3a6598;
+  --accent-light: #d8eaf8;
+  --text-head: #0f2a47;
+  --text-body: #1e3e5c;
+  --text-muted: #547090;
+  --tag-bg: #b8d4ee;
+  --tag-text: #1c3f63;
+  --confirm-bg: #deeaf7;
+  --confirm-border: #a8c5e5;
+  --confirm-text: #0f2a47;
+  --hint-bg: #eff5fb;
+  --hint-border: #a8c5e5;
+}
+
+/* ── 3. Sage Garden ─ pale mint & sage ───────────────────────────────────── */
+:root[data-palette="sage-garden"] {
+  --bg-base: #f0f6f0;
+  --bg-mid: #dceadc;
+  --bg-surface: #c8dcc8;
+  --bg-surface-alt: #dceadc;
+  --border: #a8c8a8;
+  --accent: #4d8a5a;
+  --accent-hover: #3a7045;
+  --accent-light: #d0e8d0;
+  --text-head: #0f2a18;
+  --text-body: #1c3c24;
+  --text-muted: #4a7058;
+  --tag-bg: #b8d8b8;
+  --tag-text: #1a4022;
+  --confirm-bg: #dceadc;
+  --confirm-border: #a8c8a8;
+  --confirm-text: #0f2a18;
+  --hint-bg: #f0f6f0;
+  --hint-border: #a8c8a8;
+}
+
+/* ── 4. Peach Bloom ─ warm cream & apricot ───────────────────────────────── */
+:root[data-palette="peach-bloom"] {
+  --bg-base: #fdf6ef;
+  --bg-mid: #f8e8d8;
+  --bg-surface: #f5d5bc;
+  --bg-surface-alt: #f8e8d8;
+  --border: #e8b890;
+  --accent: #c07040;
+  --accent-hover: #a05a30;
+  --accent-light: #fae0c8;
+  --text-head: #3a1c08;
+  --text-body: #5a3018;
+  --text-muted: #9a6848;
+  --tag-bg: #f0c8a0;
+  --tag-text: #6a3010;
+  --confirm-bg: #f8e8d8;
+  --confirm-border: #e8b890;
+  --confirm-text: #3a1c08;
+  --hint-bg: #fdf6ef;
+  --hint-border: #e8b890;
+}
+
+/* ── 5. Lilac Dream ─ pale lavender & violet ─────────────────────────────── */
+:root[data-palette="lilac-dream"] {
+  --bg-base: #f5f0fb;
+  --bg-mid: #e8daf5;
+  --bg-surface: #d8c8f0;
+  --bg-surface-alt: #e8daf5;
+  --border: #c0a8e0;
+  --accent: #7050b0;
+  --accent-hover: #583890;
+  --accent-light: #e5d8f8;
+  --text-head: #1e084a;
+  --text-body: #30186a;
+  --text-muted: #6848a0;
+  --tag-bg: #cbb8e8;
+  --tag-text: #2a0860;
+  --confirm-bg: #e8daf5;
+  --confirm-border: #c0a8e0;
+  --confirm-text: #1e084a;
+  --hint-bg: #f5f0fb;
+  --hint-border: #c0a8e0;
+}
+
+/* ── Root fallback (Rose Petal) ──────────────────────────────────────────── */
+:root {
+  --bg-base: #fdf0f3;
+  --bg-mid: #fbe4ea;
+  --bg-surface: #f9d5dd;
+  --bg-surface-alt: #fce9ee;
+  --border: #efb8c8;
+  --accent: #c4687a;
+  --accent-hover: #a8546a;
+  --accent-light: #fae0e5;
+  --text-head: #4a1a24;
+  --text-body: #5c3040;
+  --text-muted: #9a6070;
+  --tag-bg: #f5c6d3;
+  --tag-text: #82323e;
+  --confirm-bg: #fce9ee;
+  --confirm-border: #efb8c8;
+  --confirm-text: #4a1a24;
+  --hint-bg: #fdf0f3;
+  --hint-border: #efb8c8;
+}
+
+/* ── Base styles ─────────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-base);
+  color: var(--text-body);
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  min-height: 100vh;
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-surface-alt);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 3px;
+}
