@@ -42,7 +42,7 @@ Hint: {Polite Present is:, 〜です} [*; 4; 2]
 
 Na-Adjective Conjugation:
 
-1. Describe a subject using the adjective for ["Quiet", "Lively", "Convenient", "Kind", "Energetic", "Free", "Simple", "Tough", "Important", "Wonderful"] — write it [**as though it was the case in the past**, **as though it isn't the case**, **as though it wasn't the case**], and apply the conjugation to the adjective [and use plain form (not polite), and be polite].
+1. Describe a subject using the adjective for ["Quiet", "Lively", "Convenient", "Kind", "Energetic", "Free", "Simple", "Tough", "Important"] — write it [**as though it was the case in the past**, **as though it isn't the case**, **as though it wasn't the case**], and apply the conjugation to the adjective [and use plain form (not polite), and be polite].
 Hint: {Quiet is:, 静か} [1]
 Hint: {Lively is:, 賑やか} [2]
 Hint: {Convenient is:, 便利} [3]
@@ -52,7 +52,6 @@ Hint: {Free (time) is:, 暇} [6]
 Hint: {Simple is:, 簡単} [7]
 Hint: {Tough is:, 大変} [8]
 Hint: {Important is:, 大切} [9]
-Hint: {Wonderful is:, 素敵} [10]
 Hint: {Polite Past is:, **〜でした**} [*; 1; 2]
 Hint: {Polite Negative is:, **〜ではありません**} [*; 2; 2]
 Hint: {Polite Past-Negative is:, **〜ではありませんでした**} [*; 3; 2]
