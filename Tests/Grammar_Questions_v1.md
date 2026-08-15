@@ -429,3 +429,301 @@ Hint: {人は誰ですか is:, Who is the person} [2]
 Hint: {彼が書いた is:, That he wrote} [3]
 Hint: {本じゃない is:, Is not the book} [3]
 Hint: {Grammar note, Notice how **が** is used to mark the subject inside the relative clause} [1, 3]
+
+
+Possibility: Might (～かもしれない):
+
+1. Translate the following sentence: "He might [go, not go, have gone] to the party." You are saying this to [a close friend, your boss].
+Hint: {Grammar: Verbs, Use the plain/short form of the verb before the ending.}
+Hint: {Politeness: Friend, Use the casual **かもしれない**} [*; 1]
+Hint: {Politeness: Boss, Use the polite **かもしれません**} [*; 2]
+Hint: {Vocab: Go, 行く} [1; *]
+Hint: {Vocab: Not go, 行かない} [2; *]
+Hint: {Vocab: Have gone, 行った} [3; *]
+2. Express the following thought to [your younger sibling, a senior colleague]: "That person over there might be a [teacher, doctor, student]."
+Hint: {Grammar: Nouns, Do not add **だ**. Attach the ending directly to the noun.}
+Hint: {Politeness: Sibling, Use **かもしれない**} [1; *]
+Hint: {Politeness: Colleague, Use **かもしれません**} [2; *]
+Hint: {Vocab: Teacher, 先生} [*; 1]
+Hint: {Vocab: Doctor, 医者} [*; 2]
+Hint: {Vocab: Student, 学生} [*; 3]
+3. How would you warn [your best friend, a customer] that the soup might be [hot, spicy, cold]?
+Hint: {Grammar: I-adjectives, Keep the **い** at the end of the word before attaching the ending.}
+Hint: {Politeness: Friend, Use **かもしれない**} [1; *]
+Hint: {Politeness: Customer, Use **かもしれません**} [2; *]
+Hint: {Vocab: Hot, 熱い} [*; 1]
+Hint: {Vocab: Spicy, 辛い} [*; 2]
+Hint: {Vocab: Cold, 冷たい} [*; 3]
+4. Inform [a peer, the company president] that yesterday's meeting might have been [complicated, quiet, a waste of time].
+Hint: {Grammar: Na-adjectives Past, Add **だった** to the root word before the ending.}
+Hint: {Politeness: Peer, Use **かもしれない**} [1; *]
+Hint: {Politeness: President, Use **かもしれません**} [2; *]
+Hint: {Vocab: Complicated, 複雑} [*; 1]
+Hint: {Vocab: Quiet, 静か} [*; 2]
+Hint: {Vocab: Waste of time, 無駄} [*; 3]
+
+Expectation: Supposed to (～はずだ):
+
+1. Explain to [your classmate, your professor] that the new student is supposed to [eat lunch, read the book, buy the tickets] today.
+Hint: {Grammar: Verb Form, Use the plain dictionary form of the verb directly before the expectation ending.}
+Hint: {Grammar: Ichidan Verb, Keep the dictionary form.} [*; 1]
+Hint: {Grammar: Godan Verb (む), Keep the dictionary form.} [*; 2]
+Hint: {Grammar: Godan Verb (う), Keep the dictionary form.} [*; 3]
+Hint: {Politeness: Classmate, End the sentence with the casual **はずだ**} [1; *]
+Hint: {Politeness: Professor, End the sentence with the polite **はずです**} [2; *]
+2. Tell [a close friend, your manager] that the upcoming meeting is supposed to be [a secret, important].
+Hint: {Grammar: Noun, Add the particle **の** before attaching the ending.} [*; 1]
+Hint: {Grammar: Na-adjective, Add **な** before attaching the ending.} [*; 2]
+Hint: {Politeness: Friend, Use **はずだ**} [1; *]
+Hint: {Politeness: Manager, Use **はずです**} [2; *]
+3. How would you assure [your younger sister, the store owner] that the dog is supposed to not [run away, enter the house, bite].
+Hint: {Grammar: Negative Expectation, Conjugate the verb into the negative short form (**〜ない**) before attaching the ending.}
+Hint: {Grammar: Ichidan Conjugation, Drop the final る and add ない} [*; 1]
+Hint: {Grammar: Godan Conjugation (る), Change the final る to ら and add ない} [*; 2]
+Hint: {Grammar: Godan Conjugation (む), Change the final む to ま and add ない} [*; 3]
+Hint: {Politeness: Sister, Use the casual **はずだ**} [1; *]
+Hint: {Politeness: Store owner, Use the polite **はずです**} [2; *]
+4. Mention to [your spouse, a senior director] that the train was supposed to [arrive, depart, stop] yesterday.
+Hint: {Grammar: Past Expectation, The verb stays in the dictionary form, but the ending itself changes to the past tense.}
+Hint: {Politeness: Spouse, End with **はずだった**} [1; *]
+Hint: {Politeness: Senior director, End with **はずでした**} [2; *]
+
+Intent: Volitional + と思う:
+
+1. Tell [a close friend, your teacher] that you think you will [eat sushi, drink tea, study Japanese] tonight.
+Hint: {Grammar: Volitional, Conjugate the verb into its volitional form before adding **と思う**.}
+Hint: {Politeness: Friend, End the sentence with the casual **と思う**.} [1; *]
+Hint: {Politeness: Teacher, End the sentence with the polite **と思います**.} [2; *]
+Hint: {Vocab & Form: Eat sushi, 寿司を食べる (Ichidan: Drop る and add よう)} [*; 1]
+Hint: {Vocab & Form: Drink tea, お茶を飲む (Godan: Change む to もう)} [*; 2]
+Hint: {Vocab & Form: Study Japanese, 日本語を勉強する (Irregular: Change する to しよう)} [*; 3]
+2. Explain to [your coworker, the CEO] that you have been thinking of [buying a car, going to Tokyo, returning home early].
+Hint: {Grammar: Ongoing Intent, Use **と思っている** instead of just **と思う** to express an intention you have held for some time.}
+Hint: {Politeness: Coworker, End the sentence with the casual **と思っている**.} [1; *]
+Hint: {Politeness: CEO, End the sentence with the polite **と思っています**.} [2; *]
+Hint: {Vocab & Form: Buy a car, 車を買う (Godan: Change う to おう)} [*; 1]
+Hint: {Vocab & Form: Go to Tokyo, 東京に行く (Godan: Change く to こう)} [*; 2]
+Hint: {Vocab & Form: Return home early, 早く帰る (Godan: Change る to ろう)} [*; 3]
+3. Mention to [your younger brother, your supervisor] that you think you will [watch a movie, talk to the client, wait at the station] tomorrow.
+Hint: {Grammar: Volitional, Conjugate the verb into its volitional form before adding **と思う**.}
+Hint: {Politeness: Brother, End the sentence with the casual **と思う**.} [1; *]
+Hint: {Politeness: Supervisor, End the sentence with the polite **と思います**.} [2; *]
+Hint: {Vocab & Form: Watch a movie, 映画を見る (Ichidan: Drop る and add よう)} [*; 1]
+Hint: {Vocab & Form: Talk to the client, お客さんと話す (Godan: Change す to そう)} [*; 2]
+Hint: {Vocab & Form: Wait at the station, 駅で待つ (Godan: Change つ to とう)} [*; 3]
+
+Purpose: In order to (～ために/ように):
+
+1. Tell [your friend, your manager] that you are saving money in order to [build a house, open a store, start a company].
+Hint: {Grammar: Purpose, Use **ために** because the action is volitional and the subject of both clauses is the same.}
+Hint: {Grammar: Verb Form, Use the dictionary form of the verb before **ために**.}
+Hint: {Politeness: Friend, End the sentence with the casual **貯金している** or **貯めている**.} [1; *]
+Hint: {Politeness: Manager, End the sentence with the polite **貯金しています** or **貯めています**.} [2; *]
+Hint: {Vocab & Form: Build a house, 家を建てる (Ichidan)} [*; 1]
+Hint: {Vocab & Form: Open a store, 店を開く (Godan く)} [*; 2]
+Hint: {Vocab & Form: Start a company, 会社を作る (Godan る)} [*; 3]
+2. Explain to [a coworker, the president] that you are practicing every day so that you will be able to [speak Japanese, eat spicy food, read kanji].
+Hint: {Grammar: Purpose, Use **ように** instead of ために because the verb is in the potential form (which is considered non-volitional).}
+Hint: {Politeness: Coworker, End the sentence with the casual **練習している**.} [1; *]
+Hint: {Politeness: President, End the sentence with the polite **練習しています**.} [2; *]
+Hint: {Vocab & Form: Speak Japanese, 日本語が話せる (Godan す potential: 話す → 話せる)} [*; 1]
+Hint: {Vocab & Form: Eat spicy food, 辛いものが食べられる (Ichidan potential: 食べる → 食べられる)} [*; 2]
+Hint: {Vocab & Form: Read kanji, 漢字が読める (Godan む potential: 読む → 読める)} [*; 3]
+3. How would you advise [your younger sibling, a senior colleague] to write it down so that they don't [forget the appointment, lose the ticket, get sick]?
+Hint: {Grammar: Negative Purpose, Use **ように** with negative verbs to express "so that ~ doesn't happen".}
+Hint: {Grammar: Verb Form, Use the negative short form (**〜ない**) directly before **ように**.}
+Hint: {Politeness: Sibling, End the sentence with the casual **メモして** or **書いておいて**.} [1; *]
+Hint: {Politeness: Colleague, End the sentence with the polite **メモしてください** or **書いておいてください**.} [2; *]
+Hint: {Vocab & Form: Forget the appointment, 約束を忘れない (Ichidan)} [*; 1]
+Hint: {Vocab & Form: Lose the ticket, チケットをなくさない (Godan す)} [*; 2]
+Hint: {Vocab & Form: Get sick, 風邪を引かない (Godan く)} [*; 3]
+4. State to [your spouse, a client] that this new software was created for the sake of [health, education, business].
+Hint: {Grammar: Noun Purpose, When using a noun, connect it using the particle **の** (Noun + **のために**).}
+Hint: {Politeness: Spouse, End the sentence with the casual **作られた**.} [1; *]
+Hint: {Politeness: Client, End the sentence with the polite **作られました**.} [2; *]
+Hint: {Vocab: Health, 健康} [*; 1]
+Hint: {Vocab: Education, 教育} [*; 2]
+Hint: {Vocab: Business, ビジネス} [*; 3]
+
+Condition: If (～ば):
+
+1. Translate the following sentence using the conditional form: "If you [eat this, drink the medicine, walk every day], you will get better." You are speaking to [a friend, a polite acquaintance].
+Hint: {Grammar: Verb Form, Change the final /u/ vowel sound of the dictionary form to an /e/ sound and add **ば**.}
+Hint: {Politeness: Friend, End the main sentence with the casual **よくなる**.} [*; 1]
+Hint: {Politeness: Acquaintance, End the main sentence with the polite **よくなります**.} [*; 2]
+Hint: {Vocab & Form: Eat this, これを食べる (Ichidan: 食べる → 食べれば)} [1; *]
+Hint: {Vocab & Form: Drink the medicine, 薬を飲む (Godan む: 飲む → 飲めば)} [2; *]
+Hint: {Vocab & Form: Walk every day, 毎日歩く (Godan く: 歩く → 歩けば)} [3; *]
+2. Express the following warning using the negative conditional form: "If you do not [hurry, wake up early, study], you will be late." You are speaking to [your younger sibling, your boss].
+Hint: {Grammar: Negative Conditional, Conjugate the verb to the negative short form (**〜ない**), drop the final **い**, and add **ければ**.}
+Hint: {Politeness: Sibling, End the sentence with the casual **遅れる**.} [*; 1]
+Hint: {Politeness: Boss, End the sentence with the polite **遅れます**.} [*; 2]
+Hint: {Vocab & Form: Hurry, 急ぐ (Godan ぐ: 急ぐ → 急がない → 急がなければ)} [1; *]
+Hint: {Vocab & Form: Wake up early, 早く起きる (Ichidan: 起きる → 起きない → 起きなければ)} [2; *]
+Hint: {Vocab & Form: Study, 勉強する (Irregular: する → しない → しなければ)} [3; *]
+3. How would you state the following using the  conditional form: "If it is [cheap, close, delicious], I will go." You are speaking to [a close friend, a senior colleague].
+Hint: {Grammar: I-adjectives, Drop the final **い** of the adjective and add **ければ**.}
+Hint: {Politeness: Friend, End the sentence with the casual **行く**.} [*; 1]
+Hint: {Politeness: Colleague, End the sentence with the polite **行きます**.} [*; 2]
+Hint: {Vocab & Form: Cheap, 安い → 安ければ} [1; *]
+Hint: {Vocab & Form: Close, 近い → 近ければ} [2; *]
+Hint: {Vocab & Form: Delicious, 美味しい → 美味しければ} [3; *]
+4. Translate this condition using the conditional form: "If you can [speak Japanese, swim, use a computer], you can work here." You are addressing [a peer, a job applicant].
+Hint: {Grammar: Potential Conditional, First change the verb to its potential form, then apply the **〜ば** rule (change the final /u/ vowel sound to /e/ and add **ば**).}
+Hint: {Politeness: Peer, End the sentence with the casual **働ける**.} [*; 1]
+Hint: {Politeness: Applicant, End the sentence with the polite **働けます**.} [*; 2]
+Hint: {Vocab & Form: Speak Japanese, 日本語を話す (Godan す potential: 話せる → 話せれば)} [1; *]
+Hint: {Vocab & Form: Swim, 泳ぐ (Godan ぐ potential: 泳げる → 泳げれば)} [2; *]
+Hint: {Vocab & Form: Use a computer, パソコンを使う (Godan う potential: 使える → 使えれば)} [3; *]
+
+
+Advice (Better to):
+
+1. Advise [your friend, your manager] that it would be best to [eat the pizza, drink the sake, use a mechanical keyboard].
+Hint: {Grammar Structure, Use the structure **〜ほうがいい** (casual) or **〜ほうがいいです** (polite).}
+Hint: {Grammar Conjugation, Change the dictionary form of the verb to the past-tense short form (**た-form**) before adding **ほうがいい**.}
+Hint: {Politeness: Friend, End with **ほうがいい**.} [1; *]
+Hint: {Politeness: Manager, End with **ほうがいいです**.} [2; *]
+Hint: {Vocab: Eat the pizza, ピザを食べる (Ichidan: 食べる → 食べた)} [*; 1]
+Hint: {Vocab: Drink the sake, 日本酒を飲む (Godan: 飲む → 飲んだ)} [*; 2]
+Hint: {Vocab: Use a mechanical keyboard, メカニカルキーボードを使う (Godan: 使う → 使った)} [*; 3]
+2. Warn [your younger brother, a senior colleague] that they really shouldn't [skip the daily review, stay up late, forget the tickets].
+Hint: {Grammar Structure, Use the structure **〜ないほうがいい** (casual) or **〜ないほうがいいです** (polite).}
+Hint: {Grammar Conjugation, Change the dictionary form of the verb to the negative short form (**ない-form**) before adding **ほうがいい**.}
+Hint: {Politeness: Brother, End with **ないほうがいい**.} [1; *]
+Hint: {Politeness: Colleague, End with **ないほうがいいです**.} [2; *]
+Hint: {Vocab: Skip the daily review, 毎日の復習をサボる (Godan: サボる → サボらない)} [*; 1]
+Hint: {Vocab: Stay up late, 夜更かしをする (Irregular: する → しない)} [*; 2]
+Hint: {Vocab: Forget the tickets, チケットを忘れる (Ichidan: 忘れる → 忘れない)} [*; 3]
+3. Suggest to [your study partner, a client] that they should probably [go to Tokyo, rest today, wait at the station] just in case.
+Hint: {Grammar Structure, Use the affirmative advice structure **〜ほうがいい** / **〜ほうがいいです**.}
+Hint: {Grammar Conjugation, Conjugate the verb into its past-tense short form (**た-form**) before attaching the ending.}
+Hint: {Politeness: Study partner, End with **ほうがいい**.} [1; *]
+Hint: {Politeness: Client, End with **ほうがいいです**.} [2; *]
+Hint: {Vocab: Go to Tokyo, 東京に行く (Godan: 行く → 行った *Note: Irregular ta-form*)} [*; 1]
+Hint: {Vocab: Rest today, 今日は休む (Godan: 休む → 休んだ)} [*; 2]
+Hint: {Vocab: Wait at the station, 駅で待つ (Godan: 待つ → 待った)} [*; 3]
+
+Verbs: Causative form (～させる):
+
+1. Tell [your friend, your manager] that you let your younger brother [watch Trigun, use the mechanical keyboard, set up the server].
+Hint: {Grammar Structure, The causative form is used to express making someone do something, or letting someone do something.}
+Hint: {Grammar Conjugation: Ichidan, Drop the final **る** and add **させる**.} [*; 1]
+Hint: {Grammar Conjugation: Godan (う), Change the final /u/ vowel sound to the /a/ vowel sound (**わ**) and add **せる**.} [*; 2]
+Hint: {Grammar Conjugation: Irregular, **する** becomes **させる**.} [*; 3]
+Hint: {Politeness: Friend, Conjugate the causative verb into the casual past tense (**〜せた**).} [1; *]
+Hint: {Politeness: Manager, Conjugate the causative verb into the polite past tense (**〜せました**).} [2; *]
+Hint: {Vocab: Watch Trigun, トライガンを見る} [*; 1]
+Hint: {Vocab: Use the mechanical keyboard, メカニカルキーボードを使う} [*; 2]
+Hint: {Vocab: Set up the server, サーバーを設定する} [*; 3]
+2. Explain to [your younger sister, a senior colleague] that the boss made him [eat the spicy Panang curry, wait at the station, carry the hard drives].
+Hint: {Grammar Structure, Use the causative form to indicate that someone was forced or directed to perform an action.}
+Hint: {Grammar Conjugation: Ichidan, Drop the final **る** and add **させる**.} [*; 1]
+Hint: {Grammar Conjugation: Godan (つ), Change **つ** to **た** and add **せる**.} [*; 2]
+Hint: {Grammar Conjugation: Godan (ぶ), Change **ぶ** to **ば** and add **せる**.} [*; 3]
+Hint: {Politeness: Sister, Use the casual past tense of the causative verb.} [1; *]
+Hint: {Politeness: Colleague, Use the polite past tense of the causative verb.} [2; *]
+Hint: {Vocab: Eat the spicy Panang curry, 辛いパネーンカレーを食べる} [*; 1]
+Hint: {Vocab: Wait at the station, 駅で待つ} [*; 2]
+Hint: {Vocab: Carry the hard drives, ハードディスクを運ぶ} [*; 3]
+3. Ask [your study partner, your boss] to please let you [go to the movie theater, leave early today, practice driving].
+Hint: {Grammar Structure, To ask for permission ("please let me do..."), conjugate the causative verb into the **て-form** and add a request word like **くれる** or **ください**.}
+Hint: {Grammar Conjugation: Godan (く), Change **く** to **か**, add **せる** (causative), then change **せる** to **せて**.} [*; 1]
+Hint: {Grammar Conjugation: Godan (る), Change **る** to **ら**, add **せる** (causative), then change **せる** to **せて**.} [*; 2]
+Hint: {Grammar Conjugation: Irregular, **する** becomes **させる** (causative), then **させて**.} [*; 3]
+Hint: {Politeness: Study partner, End the sentence with **くれない？** or **ちょうだい**.} [1; *]
+Hint: {Politeness: Boss, End the sentence with **ください** or **いただけませんか**.} [2; *]
+Hint: {Vocab: Go to the movie theater, 映画館に行く} [*; 1]
+Hint: {Vocab: Leave early today, 今日は早く帰る} [*; 2]
+Hint: {Vocab: Practice driving, 運転の練習をする} [*; 3]
+
+
+Verbs: Causative-Passive (～させられる):
+
+1. Complain to [your study partner, your manager] that you were forced to [eat the spicy poke bowl, drink the bitter tea, work overtime] yesterday.
+Hint: {Grammar Structure, The causative-passive form expresses being forced or made to do something against your will by someone else.}
+Hint: {Grammar Conjugation: Ichidan, Drop the final **る** and add **させられる**.} [*; 1]
+Hint: {Grammar Conjugation: Godan (む), Change the final /u/ vowel sound to the /a/ vowel sound (**ま**) and add **される**.} [*; 2]
+Hint: {Grammar Conjugation: Irregular, **する** becomes **させられる**.} [*; 3]
+Hint: {Politeness: Study partner, End the sentence with the casual past tense.} [1; *]
+Hint: {Politeness: Manager, End the sentence with the polite past tense.} [2; *]
+Hint: {Vocab: Eat the spicy poke bowl, 辛いポケボウルを食べる} [*; 1]
+Hint: {Vocab: Drink the bitter tea, 苦いお茶を飲む} [*; 2]
+Hint: {Vocab: Work overtime, 残業する} [*; 3]
+2. Explain to [your classmate, a senior colleague] that you are currently being made to [buy the drinks, wait at the station, speak in Japanese].
+Hint: {Grammar Structure, Conjugate the verb to the causative-passive form, then change it to the continuous state (**〜ている**) to express an ongoing action you are being forced to do.}
+Hint: {Grammar Conjugation: Godan (う), Change **う** to **わ** and add **される**.} [*; 1]
+Hint: {Grammar Conjugation: Godan (つ), Change **つ** to **た** and add **される**.} [*; 2]
+Hint: {Grammar Conjugation: Godan (す), For verbs ending in す, change **す** to **さ** and add **せられる** (do not use the shorter される form).} [*; 3]
+Hint: {Politeness: Classmate, End the sentence casually with **〜ている**.} [1; *]
+Hint: {Politeness: Colleague, End the sentence politely with **〜ています**.} [2; *]
+Hint: {Vocab: Buy the drinks, 飲み物を買う} [*; 1]
+Hint: {Vocab: Wait at the station, 駅で待つ} [*; 2]
+Hint: {Vocab: Speak in Japanese, 日本語で話す} [*; 3]
+3. Tell [your younger sister, the client] that you were forced to [use Windows, watch Getter Robo, read the long email].
+Hint: {Grammar Structure, Recall the causative-passive form to express an action you did not want to do but were compelled to perform.}
+Hint: {Grammar Conjugation: Godan (う), Change **う** to **わ** and add **される**.} [*; 1]
+Hint: {Grammar Conjugation: Ichidan, Drop the final **る** and add **させられる**.} [*; 2]
+Hint: {Grammar Conjugation: Godan (む), Change **む** to **ま** and add **される**.} [*; 3]
+Hint: {Politeness: Sister, Conjugate the causative-passive verb into the casual past tense.} [1; *]
+Hint: {Politeness: Client, Conjugate the causative-passive verb into the polite past tense.} [2; *]
+Hint: {Vocab: Use Windows, Windowsを使う} [*; 1]
+Hint: {Vocab: Watch Getter Robo, ゲッターロボを見る} [*; 2]
+Hint: {Vocab: Read the long email, 長いメールを読む} [*; 3]
+
+
+Comparison: A is more than B (～より〜ほうが):
+
+1. Tell [a close friend, your professor] that [dogs are better than cats, summer is hotter than winter, sushi is more expensive than ramen].
+Hint: {Grammar Structure, State the lesser item with **より** (than), then the greater item with **のほうが** (is more), followed by the adjective.}
+Hint: {Politeness: Friend, End the sentence with the casual adjective form (do not add **だ** or **です**).} [1; *]
+Hint: {Politeness: Professor, End the sentence with the polite **です**.} [2; *]
+Hint: {Vocab: Cats / Dogs / Good, 猫 / 犬 / いい} [*; 1]
+Hint: {Vocab: Winter / Summer / Hot, 冬 / 夏 / 暑い} [*; 2]
+Hint: {Vocab: Ramen / Sushi / Expensive, ラーメン / 寿司 / 高い} [*; 3]
+2. Explain to [your younger brother, a senior colleague] that it is faster to [run, take the train, fly] than to [walk, take the bus, drive].
+Hint: {Grammar Structure, When comparing verbs, use the dictionary form of the verbs before **より** and **ほうが**.}
+Hint: {Politeness: Brother, End the sentence with the casual **早い**.} [1]
+Hint: {Politeness: Colleague, End the sentence with the polite **早いです**.} [2]
+Hint: {Vocab: Run, 走る} [*; 1]
+Hint: {Vocab: Take the train, 電車に乗る} [*; 2]
+Hint: {Vocab: Fly, 飛行機で行く} [*; 3]
+Hint: {Vocab: Walk, 歩く} [*; *; 1]
+Hint: {Vocab: Take the bus, バスに乗る} [*; *; 2]
+Hint: {Vocab: Drive, 車で行く} [*; *; 3]
+3. State to [a classmate, your boss] that yesterday's [math test was easier, meeting was more serious, festival was more lively] than today's.
+Hint: {Grammar Structure, Use **今日のより** (than today's) followed by **昨日のほうが** (yesterday's is more) before the *na*-adjective.}
+Hint: {Grammar Conjugation, For past tense *na*-adjectives, attach the past tense copula directly to the root word.}
+Hint: {Politeness: Classmate, End with the casual past tense **だった**.} [1; *]
+Hint: {Politeness: Boss, End with the polite past tense **でした**.} [2; *]
+Hint: {Vocab: Math test / Easy, 数学のテスト / 簡単} [*; 1]
+Hint: {Vocab: Meeting / Serious, 会議 / 真面目} [*; 2]
+Hint: {Vocab: Festival / Lively, お祭り / にぎやか} [*; 3]
+
+
+Prohibition: Must not do (～ちゃいけない・じゃいけない):
+
+1. Warn [your little sister, your students] that they absolutely must not [eat the cake, use this computer, enter the room].
+Hint: {Grammar Structure, Recall the conversational contraction used to strongly forbid an action.}
+Hint: {Grammar Conjugation, Conjugate the verb into the **て-form**. Since these verbs end in **て**, replace it with **ちゃ** before adding the ending.}
+Hint: {Politeness: Sister, End the sentence with the casual **いけない**.} [1; *]
+Hint: {Politeness: Students, End the sentence with the polite **いけません**.} [2; *]
+Hint: {Vocab: Eat the cake, ケーキを食べる (Ichidan: 食べて → 食べちゃ)} [*; 1]
+Hint: {Vocab: Use this computer, このパソコンを使う (Godan う: 使って → 使っちゃ)} [*; 2]
+Hint: {Vocab: Enter the room, 部屋に入る (Godan る: 入って → 入っちゃ)} [*; 3]
+2. Tell [your best friend, a junior colleague] that they are not allowed to [drink the sake, play here, swim in the river] right now.
+Hint: {Grammar Structure, Use the spoken contraction for prohibition.}
+Hint: {Grammar Conjugation, Conjugate the verb into the **て-form**. Because these specific verbs end in **で**, replace it with **じゃ** before adding the ending.}
+Hint: {Politeness: Friend, End the sentence with **じゃいけない**.} [1; *]
+Hint: {Politeness: Colleague, End the sentence with **じゃいけません**.} [2; *]
+Hint: {Vocab: Drink the sake, 日本酒を飲む (Godan む: 飲んで → 飲んじゃ)} [*; 1]
+Hint: {Vocab: Play here, ここで遊ぶ (Godan ぶ: 遊んで → 遊んじゃ)} [*; 2]
+Hint: {Vocab: Swim in the river, 川で泳ぐ (Godan ぐ: 泳いで → 泳いじゃ)} [*; 3]
+3. Remind [your study partner, a new employee] that they are strictly forbidden to [stay up late, bring a dog, walk in the dark].
+Hint: {Grammar Structure, Use the conversational contraction for "must not do".}
+Hint: {Grammar Conjugation, Find the **て-form** of the verb. Replace the final **て** with **ちゃ** before attaching the ending.}
+Hint: {Politeness: Study partner, End the sentence with **ちゃいけない**.} [1; *]
+Hint: {Politeness: New employee, End the sentence with **ちゃいけません**.} [2; *]
+Hint: {Vocab: Stay up late, 夜更かしをする (Irregular する: して → しちゃ)} [*; 1]
+Hint: {Vocab: Bring a dog, 犬を連れてくる (Irregular くる: 連れてきて → 連れてきちゃ)} [*; 2]
+Hint: {Vocab: Walk in the dark, 暗いところを歩く (Godan く: 歩いて → 歩いちゃ)} [*; 3]
